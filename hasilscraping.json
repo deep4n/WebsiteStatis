@@ -1,0 +1,802 @@
+[
+      {
+            "name": "Johnson & Johnson",
+            "kode": "JNJ",
+            "kapabilitas": "$459.70",
+            "harga": "$174.84",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/JNJ.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Roche",
+            "kode": "RHHBY",
+            "kapabilitas": "$336.71",
+            "harga": "$49.15",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/RHHBY.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Pfizer",
+            "kode": "PFE",
+            "kapabilitas": "$306.52",
+            "harga": "$54.51",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/PFE.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "AbbVie",
+            "kode": "ABBV",
+            "kapabilitas": "$281.58",
+            "harga": "$159.20",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ABBV.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Eli Lilly",
+            "kode": "LLY",
+            "kapabilitas": "$273.93",
+            "harga": "$287.64",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/LLY.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Novo Nordisk",
+            "kode": "NVO",
+            "kapabilitas": "$253.67",
+            "harga": "$111.47",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/NVO.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Merck",
+            "kode": "MRK",
+            "kapabilitas": "$199.96",
+            "harga": "$79.11",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/MRK.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Astrazeneca",
+            "kode": "AZN",
+            "kapabilitas": "$195.94",
+            "harga": "$63.23",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/AZN.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Novartis",
+            "kode": "NVS",
+            "kapabilitas": "$193.97",
+            "harga": "$86.79",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/NVS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Bristol-Myers Squibb",
+            "kode": "BMY",
+            "kapabilitas": "$154.80",
+            "harga": "$71.02",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BMY.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "CVS Health",
+            "kode": "CVS",
+            "kapabilitas": "$140.83",
+            "harga": "$107.30",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CVS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Amgen",
+            "kode": "AMGN",
+            "kapabilitas": "$131.59",
+            "harga": "$236.25",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/AMGN.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Sanofi",
+            "kode": "SNY",
+            "kapabilitas": "$130.08",
+            "harga": "$52.09",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SNY.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "GlaxoSmithKline",
+            "kode": "GSK",
+            "kapabilitas": "$109.35",
+            "harga": "$43.02",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/GSK.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "CSL",
+            "kode": "CSL.AX",
+            "kapabilitas": "$96.53",
+            "harga": "$200.41",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CSL.AX.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Zoetis",
+            "kode": "ZTS",
+            "kapabilitas": "$92.45",
+            "harga": "$195.90",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ZTS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Merck KGaA",
+            "kode": "MRK.DE",
+            "kapabilitas": "$83.28",
+            "harga": "$209.27",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/MRK.DE.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Gilead Sciences",
+            "kode": "GILD",
+            "kapabilitas": "$74.50",
+            "harga": "$59.42",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/GILD.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Regeneron Pharmaceuticals",
+            "kode": "REGN",
+            "kapabilitas": "$73.20",
+            "harga": "$685.94",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/REGN.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Moderna",
+            "kode": "MRNA",
+            "kapabilitas": "$72.11",
+            "harga": "$178.93",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/MRNA.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Vertex Pharmaceuticals",
+            "kode": "VRTX",
+            "kapabilitas": "$63.41",
+            "harga": "$249.08",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/VRTX.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Bayer",
+            "kode": "BAYZF",
+            "kapabilitas": "$62.74",
+            "harga": "$63.87",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BAYZF.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Chugai Pharmaceutical",
+            "kode": "4519.T",
+            "kapabilitas": "$55.64",
+            "harga": "$33.85",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/4519.T.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Lonza",
+            "kode": "LONN.SW",
+            "kapabilitas": "$52.75",
+            "harga": "$710.19",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/LONN.SW.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Takeda Pharmaceutical",
+            "kode": "TAK",
+            "kapabilitas": "$47.31",
+            "harga": "$15.10",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/TAK.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "WuXi AppTec",
+            "kode": "2359.HK",
+            "kapabilitas": "$44.03",
+            "harga": "$14.45",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/2359.HK.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "BioNTech",
+            "kode": "BNTX",
+            "kapabilitas": "$42.30",
+            "harga": "$174.46",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BNTX.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Walgreens Boots Alliance",
+            "kode": "WBA",
+            "kapabilitas": "$40.88",
+            "harga": "$47.36",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/WBA.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Jiangsu Hengrui Medicine",
+            "kode": "600276.SS",
+            "kapabilitas": "$37.60",
+            "harga": "$5.89",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/600276.SS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "WuXi Biologics",
+            "kode": "WXXWY",
+            "kapabilitas": "$37.24",
+            "harga": "$14.30",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/WXXWY.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "West Pharma",
+            "kode": "WST",
+            "kapabilitas": "$30.80",
+            "harga": "$414.69",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/WST.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Biogen",
+            "kode": "BIIB",
+            "kapabilitas": "$30.65",
+            "harga": "$208.57",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BIIB.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Astellas Pharma",
+            "kode": "ALPMF",
+            "kapabilitas": "$29.43",
+            "harga": "$15.71",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ALPMF.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Sun Pharmaceutical",
+            "kode": "SUNPHARMA.NS",
+            "kapabilitas": "$28.72",
+            "harga": "$11.97",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SUNPHARMA.NS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Royalty Pharma",
+            "kode": "RPRX",
+            "kapabilitas": "$26.41",
+            "harga": "$39.32",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/RPRX.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Seagen",
+            "kode": "SGEN",
+            "kapabilitas": "$26.22",
+            "harga": "$142.81",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SGEN.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "LabCorp",
+            "kode": "LH",
+            "kapabilitas": "$25.70",
+            "harga": "$275.23",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/LH.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "BeiGene",
+            "kode": "BGNE",
+            "kapabilitas": "$24.76",
+            "harga": "$192.97",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BGNE.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Horizon Therapeutics",
+            "kode": "HZNP",
+            "kapabilitas": "$24.75",
+            "harga": "$108.00",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/HZNP.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Genmab",
+            "kode": "GMAB",
+            "kapabilitas": "$23.64",
+            "harga": "$36.13",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/GMAB.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Celltrion",
+            "kode": "068270.KS",
+            "kapabilitas": "$21.33",
+            "harga": "$153.72",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/068270.KS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Alnylam Pharmaceuticals",
+            "kode": "ALNY",
+            "kapabilitas": "$19.86",
+            "harga": "$165.25",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ALNY.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Catalent",
+            "kode": "CTLT",
+            "kapabilitas": "$19.55",
+            "harga": "$109.14",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CTLT.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "ICON plc",
+            "kode": "ICLR",
+            "kapabilitas": "$19.53",
+            "harga": "$239.50",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ICLR.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Otsuka Holdings",
+            "kode": "4578.T",
+            "kapabilitas": "$19.00",
+            "harga": "$35.04",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/4578.T.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Shionogi",
+            "kode": "4507.T",
+            "kapabilitas": "$18.94",
+            "harga": "$62.84",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/4507.T.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Bio-Techne",
+            "kode": "TECH",
+            "kapabilitas": "$17.50",
+            "harga": "$445.60",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/TECH.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "PPD",
+            "kode": "PPD",
+            "kapabilitas": "$16.61",
+            "harga": "$47.28",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/PPD.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Argenx",
+            "kode": "ARGX",
+            "kapabilitas": "$15.96",
+            "harga": "$309.91",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ARGX.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Eisai",
+            "kode": "4523.T",
+            "kapabilitas": "$14.12",
+            "harga": "$49.27",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/4523.T.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Hansoh Pharma",
+            "kode": "3692.HK",
+            "kapabilitas": "$13.85",
+            "harga": "$1.97",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/3692.HK.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Elanco",
+            "kode": "ELAN",
+            "kapabilitas": "$13.49",
+            "harga": "$27.42",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ELAN.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "kyowa Kirin",
+            "kode": "4151.T",
+            "kapabilitas": "$13.40",
+            "harga": "$24.95",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/4151.T.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Viatris",
+            "kode": "VTRS",
+            "kapabilitas": "$12.89",
+            "harga": "$10.66",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/VTRS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Ono Pharmaceutical",
+            "kode": "4528.T",
+            "kapabilitas": "$12.43",
+            "harga": "$25.46",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/4528.T.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Vifor Pharma",
+            "kode": "VIFN.SW",
+            "kapabilitas": "$11.36",
+            "harga": "$174.66",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/VIFN.SW.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Cipla",
+            "kode": "CIPLA.NS",
+            "kapabilitas": "$11.11",
+            "harga": "$13.77",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CIPLA.NS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Sino Biopharmaceutical",
+            "kode": "1177.HK",
+            "kapabilitas": "$11.08",
+            "harga": "$0.59",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/1177.HK.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Maravai LifeSciences",
+            "kode": "MRVI",
+            "kapabilitas": "$10.07",
+            "harga": "$40.92",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/MRVI.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Organon",
+            "kode": "OGN",
+            "kapabilitas": "$9.86",
+            "harga": "$35.08",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/OGN.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Jazz Pharmaceuticals",
+            "kode": "JAZZ",
+            "kapabilitas": "$9.66",
+            "harga": "$156.61",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/JAZZ.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Dr. Reddy's",
+            "kode": "RDY",
+            "kapabilitas": "$8.88",
+            "harga": "$53.55",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/RDY.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Neurocrine Biosciences",
+            "kode": "NBIX",
+            "kapabilitas": "$8.86",
+            "harga": "$93.13",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/NBIX.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Bausch Health",
+            "kode": "BHC",
+            "kapabilitas": "$8.82",
+            "harga": "$24.20",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BHC.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Biohaven Pharmaceutical",
+            "kode": "BHVN",
+            "kapabilitas": "$8.79",
+            "harga": "$122.54",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BHVN.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Teva Pharmaceutical Industries",
+            "kode": "TEVA",
+            "kapabilitas": "$8.70",
+            "harga": "$7.89",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/TEVA.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Sinopharm",
+            "kode": "1099.HK",
+            "kapabilitas": "$7.73",
+            "harga": "$2.30",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/1099.HK.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Gland Pharma",
+            "kode": "GLAND.NS",
+            "kapabilitas": "$7.18",
+            "harga": "$43.34",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/GLAND.NS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Sarepta Therapeutics",
+            "kode": "SRPT",
+            "kapabilitas": "$7.06",
+            "harga": "$81.04",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SRPT.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Exelixis",
+            "kode": "EXEL",
+            "kapabilitas": "$6.94",
+            "harga": "$21.39",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/EXEL.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Hualan Biological Engineering",
+            "kode": "002007.SZ",
+            "kapabilitas": "$6.89",
+            "harga": "$3.60",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/002007.SZ.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Ascendis Pharma",
+            "kode": "ASND",
+            "kapabilitas": "$6.68",
+            "harga": "$117.44",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ASND.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "KOBAYASHI Pharmaceutical",
+            "kode": "4967.T",
+            "kapabilitas": "$6.50",
+            "harga": "$84.19",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/4967.T.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Swedish Orphan Biovitrum",
+            "kode": "SOBI.ST",
+            "kapabilitas": "$6.47",
+            "harga": "$21.93",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/SOBI.ST.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Torrent Pharmaceuticals",
+            "kode": "TORNTPHARM.NS",
+            "kapabilitas": "$6.38",
+            "harga": "$37.76",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/TORNTPHARM.NS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Novavax",
+            "kode": "NVAX",
+            "kapabilitas": "$6.27",
+            "harga": "$82.30",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/NVAX.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Arena Pharmaceuticals",
+            "kode": "ARNA",
+            "kapabilitas": "$6.16",
+            "harga": "$99.99",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ARNA.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Orion Corporation",
+            "kode": "ORNAV.HE",
+            "kapabilitas": "$6.07",
+            "harga": "$45.35",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ORNAV.HE.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Legend Biotech",
+            "kode": "LEGN",
+            "kapabilitas": "$5.88",
+            "harga": "$38.53",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/LEGN.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Intra-Cellular Therapies",
+            "kode": "ITCI",
+            "kapabilitas": "$5.71",
+            "harga": "$61.05",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ITCI.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Intellia Therapeutics",
+            "kode": "NTLA",
+            "kapabilitas": "$5.68",
+            "harga": "$72.33",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/NTLA.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Evotec",
+            "kode": "EVO",
+            "kapabilitas": "$5.45",
+            "harga": "$15.40",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/EVO.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Alkem Laboratories",
+            "kode": "ALKEM.NS",
+            "kapabilitas": "$5.40",
+            "harga": "$45.17",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ALKEM.NS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "CRISPR Therapeutics",
+            "kode": "CRSP",
+            "kapabilitas": "$5.35",
+            "harga": "$67.89",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CRSP.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Biocon",
+            "kode": "BIOCON.NS",
+            "kapabilitas": "$5.23",
+            "harga": "$4.35",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BIOCON.NS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Cerevel Therapeutics",
+            "kode": "CERE",
+            "kapabilitas": "$5.23",
+            "harga": "$32.67",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CERE.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Perrigo",
+            "kode": "PRGO",
+            "kapabilitas": "$5.11",
+            "harga": "$38.26",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/PRGO.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Ionis Pharmaceuticals",
+            "kode": "IONS",
+            "kapabilitas": "$4.99",
+            "harga": "$35.25",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/IONS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Abbott India",
+            "kode": "ABBOTINDIA.NS",
+            "kapabilitas": "$4.81",
+            "harga": "$226.67",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ABBOTINDIA.NS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Nippon Shinyaku",
+            "kode": "4516.T",
+            "kapabilitas": "$4.75",
+            "harga": "$70.65",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/4516.T.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Lundbeck",
+            "kode": "LDB.F",
+            "kapabilitas": "$4.67",
+            "harga": "$23.54",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/LDB.F.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Cadila Healthcare",
+            "kode": "CADILAHC.NS",
+            "kapabilitas": "$4.65",
+            "harga": "$4.55",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/CADILAHC.NS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Lupin Limited",
+            "kode": "LUPIN.NS",
+            "kapabilitas": "$4.56",
+            "harga": "$10.05",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/LUPIN.NS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Ginkgo Bioworks",
+            "kode": "DNA",
+            "kapabilitas": "$4.53",
+            "harga": "$3.05",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/DNA.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Zai Lab",
+            "kode": "ZLAB",
+            "kapabilitas": "$4.48",
+            "harga": "$38.73",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ZLAB.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Santen Pharmaceutical",
+            "kode": "4536.T",
+            "kapabilitas": "$4.45",
+            "harga": "$11.13",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/4536.T.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Beam Therapeutics",
+            "kode": "BEAM",
+            "kapabilitas": "$4.33",
+            "harga": "$63.11",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BEAM.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Alkermes",
+            "kode": "ALKS",
+            "kapabilitas": "$4.23",
+            "harga": "$26.12",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/ALKS.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "BB Biotech",
+            "kode": "BION.SW",
+            "kapabilitas": "$4.21",
+            "harga": "$74.91",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/BION.SW.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      },
+      {
+            "name": "Sumitomo Dainippon Pharma",
+            "kode": "4506.T",
+            "kapabilitas": "$4.14",
+            "harga": "$10.44",
+            "Image": "https://companiesmarketcap.com/img/company-logos/64/4506.T.webp",
+            "waktu_scraping": "2022-03-20 pukul 00:08:23"
+      }
+]

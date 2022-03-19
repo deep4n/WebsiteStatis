@@ -1,0 +1,54 @@
+<html>
+	<head>
+
+        <style>h1 {text-align: center;}
+            table {align: center;}
+            table {
+                font-family: arial, sans-serif;
+                border-collapse: collapse;
+                width: 100%;
+              }
+              
+              td, th {
+                border: 1px solid #dddddd;
+                text-align: left;
+                padding: 8px;
+              }
+              
+              tr:nth-child(even) {
+                background-color: #12a1c8;
+              }
+              tr:nth-child(odd) {
+                background-color: #96ccdb;
+              }
+        </style>
+        
+		<title>100 Perusahaan Farmasi Terbesar</title>
+        <!--Import library jquery-->
+        <script src="https://code.jquery.com/jquery-3.5.1.js"></script>
+	</head>
+	<body>
+        <h1>100 Perusahaan Farmasi Terbesar</h1>
+        <div id="hasilscraping_json"></div>
+	</body>
+    <script type="text/javascript">
+        $(function(){
+            //mengambil data dari file json
+            $.get('hasilscraping.json',function(obj){
+                var str = "<table border=1>";
+                str +="<tr><td>Rank</td><td class='tables'>Gambar Perusahaan</td><td class='tables'>Nama Perusahaan</td><td class='tables'>Kode Perusahaan</td><td class='tables'>Kapabilitas</td><td class='tables'>Harga</td><td class='tables'>Waktu Scrapping</td></tr>";
+                $.each(obj,function(n,data){
+                    str +="<tr><td>" + (n+1) + "</td>";
+                    str += '<td><img src="' + data.Image + '"></td>';
+                    str +="<td>" + data.name + "</td>";
+                    str +="<td class='tables'>" + data.kode + "</td>";
+                    str +="<td class='tables'>" + data.kapabilitas + " B" + "</td>";
+                    str +="<td class='tables'>" + data.harga + "</td>";
+                    str +="<td class='tables'>" + data.waktu_scraping + "</td></tr>";
+                });
+                str +="</table>";
+                $('#hasilscraping_json').html(str);
+            });
+        });
+    </script>
+</html>
